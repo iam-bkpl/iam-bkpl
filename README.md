@@ -2,6 +2,7 @@
 
 
 **iam-bkpl/iam-bkpl**
+<img src="https://github-readme-stats.vercel.app/api?username=iam-bkpl&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 <!-- 
 - 🔭 I’m currently working on 
