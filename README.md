@@ -37,7 +37,7 @@
    <p>  - 👋 Hi, I’m Kapil Bhandari</p>
    <p>  - 👀 I’m interested in Backend</p>
    <p>  - 🌱 I’m currently learning Rect (day) | Django (night)</p>
-  - 💞️ I’m looking to collaborate on ...
+   <p>  - 💞️ I’m looking to collaborate on React | Django Projects </p>
   - 📫 How to reach me ...
    
    <div align="center">
