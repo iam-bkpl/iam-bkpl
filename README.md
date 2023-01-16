@@ -33,8 +33,13 @@
 <div align="left">
   
   <h1>  About Me :</h1>
-  - 👋 Hi, I’m Kapil Bhandari  
-  - 👀 I’m interested in Backend
+- 👋 Hi, I’m @iam-leena
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+  
+  
   
   
    </div> 
