@@ -33,6 +33,7 @@
 <div align="left">
   
   <h1>  About Me :</h1>
+  - 👋 Hi, I’m Kapil Bhandari
    </div>
    <div align="center">
   <h2> :hammer_and_wrench: Languages and Tools :</h2>
