@@ -34,13 +34,9 @@
   
   <h1>  About Me :</h1>
    </div> 
-   <p>
-  - 👋 Hi, I’m Kapil Bhandari
-  </p>
-  <p>
-  - 👀 I’m interested in Backend
-  </p>
-  - 🌱 I’m currently learning ...
+   <p>  - 👋 Hi, I’m Kapil Bhandari</p>
+   <p>  - 👀 I’m interested in Backend</p>
+   <p>  - 🌱 I’m currently learning </p>
   - 💞️ I’m looking to collaborate on ...
   - 📫 How to reach me ...
    
