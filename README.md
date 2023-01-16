@@ -38,7 +38,6 @@
    <p>  - 👀 I’m interested in Backend</p>
    <p>  - 🌱 I’m currently learning Rect (day) | Django (night)</p>
    <p>  - 💞️ I’m looking to collaborate on React | Django Projects </p>
-  - 📫 How to reach me ...
    
    <div align="center">
   <h2> :hammer_and_wrench: Languages and Tools :</h2>
