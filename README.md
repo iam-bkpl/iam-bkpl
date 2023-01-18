@@ -34,7 +34,7 @@
   
   <h1>  About Me :</h1>
    </div> 
-   <p>  -  Hi, I’m Kapil Bhandari</p>
+   <p>  -  Hi, am a student learning to code to solve the problems that i face and see around me.</p>
    <p>  -  I’m interested in Backend</p>
    <p>  -  I’m currently learning Rect (day) | Django (night)</p>
    <p>  -  I’m looking to collaborate on React | Django Projects </p>
