@@ -37,7 +37,7 @@
    <p>  -  Hi, am a student learning to code to solve the problems that i face and see around me.</p>
    <p>  -  I’m interested in Backend</p>
    <p>  -  I’m currently learning Rect (day) | Django (night)</p>
-   <p>  -  I’m looking to collaborate on React | Django Projects </p>
+   <p>  -  I’m looking to collaborate on React | Django Projects 
    
    <div align="center">
   <h2> :hammer_and_wrench: Languages and Tools :</h2>
