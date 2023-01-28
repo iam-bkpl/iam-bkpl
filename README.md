@@ -30,19 +30,7 @@
   <hr/>
   
 </div>
-<div align="left">
-  
-  <h1>  About Me :</h1>
-   </div> 
-   <p>  -  Hi, am a student learning to code to solve the problems that i face and see around me.</p>
-   <p>  -  I’m interested in Backend</p>
-   <p>  -  I’m currently learning Rect (day) | Django (night)</p>
-   <p>  -  I’m looking to collaborate on React | Django Projects 
-   
-   <div align="center">
-  <h2> :hammer_and_wrench: Languages and Tools :</h2>
-  <hr>
-  </div>
+
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
